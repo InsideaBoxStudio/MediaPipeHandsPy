@@ -3,9 +3,9 @@ MediaPipe en Python
 
 #necesario (installalo con "pip install 'copia y pega los siguientes nombres de complementos'"):
 
-mediapipe==0.10.21
-opencv-python
-pygame
+mediapipe==0.10.21,
+opencv-python,
+pygame,
 pyinstaller
 
 #compilar en un ejecutable:
