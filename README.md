@@ -1,0 +1,2 @@
+# MediaPipeHandsPy
+MediaPipe en Python
