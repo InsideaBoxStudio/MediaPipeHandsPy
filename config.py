@@ -1,0 +1,6 @@
+JSON_FILE = "assets/letras.json"
+TOLERANCIA = 0.15
+
+FPS = 60
+FRAME_WIDTH = 640
+FRAME_HEIGHT = 480
