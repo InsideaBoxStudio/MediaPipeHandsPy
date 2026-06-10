@@ -238,7 +238,9 @@ while True:
             cv2.WND_PROP_AUTOSIZE
         ) < 0:
             break
+            print("Saliendo del loop...")
     except:
+        print("Excepción al consultar ventana")
         break
 
     # -------------------------
